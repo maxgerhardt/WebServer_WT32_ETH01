@@ -29,6 +29,8 @@
 #ifndef WEBSERVER_WT32_ETH01_IMPL_H
 #define WEBSERVER_WT32_ETH01_IMPL_H
 
+#include <WebServer_WT32_ETH01.h>
+
 bool WT32_ETH01_eth_connected = false;
 
 void WT32_ETH01_onEvent()

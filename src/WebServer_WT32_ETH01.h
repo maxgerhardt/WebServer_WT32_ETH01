@@ -116,6 +116,4 @@ extern bool WT32_ETH01_isConnected();
 
 extern void WT32_ETH01_event(WiFiEvent_t event);
 
-#include "WebServer_WT32_ETH01_Impl.h"
-
 #endif    // WEBSERVER_WT32_ETH01_H
